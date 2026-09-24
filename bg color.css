@@ -1,0 +1,13 @@
+body{
+    background-color: blueviolet;
+}
+@media(max-width:780px){
+    body{
+        background-color: rgb(226, 43, 208);
+    }
+}
+@media(max-width:480px){
+    body{
+        background-color: rgb(172, 26, 106);
+    }
+}
