@@ -1,0 +1,6 @@
+img{
+    filter:brightness(300%) blur(5px);
+}
+img{
+    filter:grayscale(100%);
+}
